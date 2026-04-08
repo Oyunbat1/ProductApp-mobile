@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "462043639167",
+    "project_id": "oyunbatauthproject",
+    "storage_bucket": "oyunbatauthproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462043639167:android:ff1ed6b115ae7cb5c6be4a",
+        "android_client_info": {
+          "package_name": "com.example.oyunbatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462043639167-2qgkq0dd3ut3aickijbtp35h0tu0por0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oyunbatapp",
+            "certificate_hash": "1c0d845e1c03b9d0a32e3e813d1ef5262cc09be6"
+          }
+        },
+        {
+          "client_id": "462043639167-g3sjl6eqaar50l5tn4tndgi85cb1iohn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLD9z23DNiCXlngjXN-Iw5jRPpK_FY9yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462043639167-3hvj71cf7ftsbij9sedbhn2ra4htj5vt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462043639167-56o2mmfmajss9ufu0t5cot3mog7vjql4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.oyunbatapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462043639167:android:f4f33246d63b25c9c6be4a",
+        "android_client_info": {
+          "package_name": "com.example.productapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462043639167-0oikuqlf0t2gbpls4qev1ecr72b4t8jj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.productapp",
+            "certificate_hash": "1c0d845e1c03b9d0a32e3e813d1ef5262cc09be6"
+          }
+        },
+        {
+          "client_id": "462043639167-g3sjl6eqaar50l5tn4tndgi85cb1iohn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLD9z23DNiCXlngjXN-Iw5jRPpK_FY9yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462043639167-3hvj71cf7ftsbij9sedbhn2ra4htj5vt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462043639167-56o2mmfmajss9ufu0t5cot3mog7vjql4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.oyunbatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
